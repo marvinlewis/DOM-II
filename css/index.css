@@ -128,6 +128,7 @@ table {
 }
 * {
   box-sizing: border-box;
+  background-color: red;
 }
 html {
   font-size: 62.5%;
